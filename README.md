@@ -4,6 +4,7 @@
 
 ## 学习路线
 
+```text
 数据中心基础
         ↓
 GPU 服务器
@@ -93,6 +94,7 @@ Jupyter Notebook 实战项目
 
 核心流程：
 
+```text
 训练数据
     ↓
 输入模型
@@ -108,6 +110,7 @@ Jupyter Notebook 实战项目
 更新参数
     ↓
 重复训练
+```
 
 ---
 
@@ -140,6 +143,7 @@ Jupyter Notebook 实战项目
 
 核心流程：
 
+```text
 用户请求
     ↓
 推理服务器
@@ -151,6 +155,7 @@ GPU
 生成结果
     ↓
 返回用户
+```
 
 ---
 
@@ -164,6 +169,7 @@ GPU
 * 神经网络
 * 模型训练
 
+---
 
 ## 08 Mini Project
 
@@ -171,6 +177,7 @@ GPU
 
 项目流程：
 
+```text
 准备数据
     ↓
 读取数据集
@@ -184,6 +191,7 @@ GPU
 观察 Loss
     ↓
 测试模型
+```
 
 ---
 
@@ -191,6 +199,7 @@ GPU
 
 通过这个知识库建立完整的认知链条：
 
+```text
 数据中心
 
 ↓ 提供
@@ -220,6 +229,7 @@ GPU 计算资源
 ↓ 最终提供
 
 AI 服务
+```
 
 ---
 
@@ -249,6 +259,7 @@ AI 服务
 
 # Repository Structure
 
+```text
 datacenter-ai-learning
 │
 ├── 01-datacenter
@@ -262,6 +273,6 @@ datacenter-ai-learning
 ├── images
 │
 └── README.md
+```
 
 This repository will continue to grow as I learn more about data centers, AI infrastructure, model training and AI systems.
-
